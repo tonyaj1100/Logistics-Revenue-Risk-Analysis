@@ -7,7 +7,7 @@ A quick-commerce logistics network in Bangalore was consistently failing its 15-
 
 This project is an end-to-end data analytics pipeline designed to ingest raw delivery logs, identify operational bottlenecks, and prescribe actionable pricing and fleet management strategies.
 
-![Executive Dashboard](page_1.png)
+![Executive Dashboard](Page_1.png)
 *(Note: Ensure the image path above exactly matches your screenshot file name in your images folder)*
 
 ## 🛠️ The Tech Stack & Architecture
